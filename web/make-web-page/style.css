@@ -1,6 +1,6 @@
 body {
   font-family: 'Ubuntu';
-  background-color: #f1dcdf;
+  background-color: #F1DCDF;
 }
 
 h1 {
@@ -10,14 +10,15 @@ h1 {
   font-size: 2.25rem;
 }
 
-h2 {
-  color: #da4939;
-}
-
 li {
   font-weight: bold;
 }
 
 p {
   margin-left: 30px;
+}
+
+.subtitles {
+  color: #DA4939;
+  font-weight: bold;
 }
