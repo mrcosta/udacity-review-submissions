@@ -22,3 +22,10 @@ p {
   color: #da4939;
   font-weight: bold;
 }
+
+.main-logo {
+  height: 75px;
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+}
